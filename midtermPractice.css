@@ -92,7 +92,10 @@ h1 {
 h1 {
   color: blue;
 }
-/* 11  */
+/* 11 makes a dotted blue border around any elements with the h1 tag */
+h1 {
+  border: 4px dotted blue;
+}
 /* 12  */
 /* 13  */
 /* 14  */
