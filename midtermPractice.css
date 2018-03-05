@@ -76,7 +76,10 @@ body {
 .publish-time {
   text-transform: uppercase;
 }
-/* 7  */
+/* 7 adds an underline to elements with the h1 tag */
+h1 {
+  text-decoration: underline;
+}
 /* 8  */
 /* 9  */
 /* 10  */
