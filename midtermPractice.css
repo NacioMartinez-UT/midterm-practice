@@ -42,7 +42,7 @@ h1 {
   .left-column {
     width: 25%;
     float: left;
-    
+    padding-right: 25px;
 
   }
 
