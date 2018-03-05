@@ -80,7 +80,10 @@ body {
 h1 {
   text-decoration: underline;
 }
-/* 8  */
+/* 8 makes all text in the body use its small capitalized version  */
+body {
+  font-variant: small-caps;
+}
 /* 9  */
 /* 10  */
 /* 11  */
