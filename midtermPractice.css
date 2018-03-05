@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 .container {
   background: #ff9ae5;
 
