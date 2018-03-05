@@ -10,3 +10,7 @@
 body {
   background: #3333ff;
 }
+.author-name {
+  font-size: 17px;
+  font-weight: bold;
+}
