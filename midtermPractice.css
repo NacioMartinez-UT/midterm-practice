@@ -68,11 +68,14 @@ h1 {
 body {
   font-family: serif;
 }
-/* 5 changes the font size of any text in the publish-time class to 25px */
+/* 5 changes the font size of any text in the publish-time class to 18px */
 .publish-time {
-  font-size: 25px;
+  font-size: 18px;
 }
-/* 6  */
+/* 6 makes text with the publish-time class uppercase */
+.publish-time {
+  text-transform: uppercase;
+}
 /* 7  */
 /* 8  */
 /* 9  */
