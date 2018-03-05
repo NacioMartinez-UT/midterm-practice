@@ -6,6 +6,9 @@
 
   margin: 30px auto;
   overflow: auto;
+
+  overflow: auto;
+  max-width: 900px;
 }
 body {
   background: #3333ff;
