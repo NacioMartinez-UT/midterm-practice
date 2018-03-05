@@ -68,7 +68,10 @@ h1 {
 body {
   font-family: serif;
 }
-/* 5  */
+/* 5 changes the font size of any text in the publish-time class to 25px */
+.publish-time {
+  font-size: 25px;
+}
 /* 6  */
 /* 7  */
 /* 8  */
