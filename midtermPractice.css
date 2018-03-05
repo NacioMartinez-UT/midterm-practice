@@ -104,6 +104,11 @@ h1 {
 h1 {
   margin-right: 20px;
 }
+/* 14 makes the margin-left of text with the h1 tag be 30px */
+h1 {
+  margin-left: 30px;
+}
+
 
 /* 16  */
 /* 17  */
