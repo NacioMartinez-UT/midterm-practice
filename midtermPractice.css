@@ -12,6 +12,7 @@
 }
 body {
   background: #3333ff;
+  margin: 25px;
 }
 .author-name {
   font-size: 17px;
@@ -35,4 +36,19 @@ body {
 }
 h1 {
   font-size: 35px;
+}
+@media(min-width: 400px) {
+
+  .left-column {
+    width: 25%;
+    float: left;
+    
+
+  }
+
+  .right-column {
+    width: 75%;
+    float: left;
+  }
+
 }
