@@ -13,9 +13,14 @@ body {
 .author-name {
   font-size: 17px;
   font-weight: bold;
+  margin: 0px;
 }
 .author-position {
   font-style: italic;
+  margin: 0px;
+}
+.publish-time {
+  margin: 0px;
 }
 .right-column p {
   font-size: 15px;
@@ -23,4 +28,5 @@ body {
 .caption {
   font-size: 10px;
   color: grey;
+  padding-top: 10px;
 }
