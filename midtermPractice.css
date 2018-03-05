@@ -84,7 +84,10 @@ h1 {
 body {
   font-variant: small-caps;
 }
-/* 9  */
+/* 9 makes the font family of text with an h1 tag sans-serif  */
+h1 {
+  font-family: sans-serif;
+}
 /* 10  */
 /* 11  */
 /* 12  */
