@@ -100,10 +100,11 @@ h1 {
 .publish-time {
   box-shadow: 2px 6px red;
 }
-/* 13  */
-/* 14  */
-/* 14  */
-/* 15  */
+/* 13  makes the margin-right of text with the h1 tag be 20px*/
+h1 {
+  margin-right: 20px;
+}
+
 /* 16  */
 /* 17  */
 /* 18  */
