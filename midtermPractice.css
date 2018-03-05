@@ -52,15 +52,18 @@ h1 {
   }
 
 }
-/* 1 make the captions italic  */
+/* 1 made the captions italic  */
 .caption {
   font-style: italic;
 }
-/* 2  */
+/* 2 made the font-size of a elements 20px */
 a {
   font-size: 20px;
 }
-/* 3  */
+/* 3 changed the font weight of anything with an h1 tag lighter */
+h1 {
+  font-weight: lighter;
+}
 /* 4  */
 /* 5  */
 /* 6  */
