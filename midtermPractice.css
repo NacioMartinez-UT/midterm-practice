@@ -88,7 +88,10 @@ body {
 h1 {
   font-family: sans-serif;
 }
-/* 10  */
+/* 10 makes the color of text with h1 tag blue */
+h1 {
+  color: blue;
+}
 /* 11  */
 /* 12  */
 /* 13  */
