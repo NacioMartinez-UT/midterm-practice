@@ -52,3 +52,7 @@ h1 {
   }
 
 }
+/* 1 make the captions italic  */
+.caption {
+  font-style: italic;
+}
