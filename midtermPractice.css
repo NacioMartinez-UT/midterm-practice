@@ -96,7 +96,10 @@ h1 {
 h1 {
   border: 4px dotted blue;
 }
-/* 12  */
+/* 12 adds a red box-shadow to text within the publish-time class */
+.publish-time {
+  box-shadow: 2px 6px red;
+}
 /* 13  */
 /* 14  */
 /* 14  */
