@@ -1,0 +1,9 @@
+.container {
+  background: #ff9ae5;
+
+  margin: 30px auto;
+  overflow: auto;
+}
+body {
+  background: #3333ff;
+}
