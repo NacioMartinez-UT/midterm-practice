@@ -64,7 +64,10 @@ a {
 h1 {
   font-weight: lighter;
 }
-/* 4  */
+/* 4 changes the font family of any text in the body to serif */
+body {
+  font-family: serif;
+}
 /* 5  */
 /* 6  */
 /* 7  */
